@@ -6,4 +6,8 @@ const ColorList = () => {
   )
 }
 
-export default ColorList
+export default ColorList 
+
+
+
+//seguir en la clase del 16/11 en el min 1:16:51
